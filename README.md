@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-###### Sobre o Edson
+##### Sobre o Edson
 Estuante de Ciência da Computação, aprediz e eterno apaixonado por criação e novas tecnologias, iniciando o aprendizado no desenvolvimento de sistemas
 
 ### Detalhes
